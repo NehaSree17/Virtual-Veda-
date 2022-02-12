@@ -5,13 +5,12 @@ wake of this medical emergency and keeping the student's safety in mind with the
 concern, the schools and colleges have endorsed online classes. But in an online lecture, the
 teacher is entirely unaware of the attention levels of the students. Analysing who is attentive
 and who is not through video of each student is a daunting task. Also, streaming video of all
-students on such platforms results in buffering.
+students on such platforms can result in buffering.
 
 The idea is to automate the task of manually analysing attention of students by creating an
 application that can track the attention levels of each student that are currently present in the
-online class. This application analyses the video feed of each student through a webcam output
-that data and sends that data to the teacher. The attention levels of each student received
-displays on the dashboard that frequently updates the values of students in the online class.
+online class. This application analyses the video feed of each student through a webcam and sends that analysis to the teacher. The received attention levels are
+displayed on the dashboard with frequent updates.
 
 It is a desktop application that has a common entry interface for both teachers and students.
 Teachers upon starting a new class get a class code which is necessary for students to enter in
