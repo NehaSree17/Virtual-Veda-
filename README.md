@@ -1,19 +1,24 @@
 # Monitoring-Student-attention-in-an-online-class-through-computer-vision
 
-Due to the arrival of the coronavirus, the education system has completely transformed. In the
-wake of this medical emergency and keeping the student's safety in mind with their academic
-concern, the schools and colleges have endorsed online classes. But in an online lecture, the
-teacher is entirely unaware of the attention levels of the students. Analysing who is attentive
-and who is not through video of each student is a daunting task. Also, streaming video of all
-students on such platforms can result in buffering.
+The arrival of COVID-19 completely transformed the education system. In the wake of this medical emergency and keeping the student's safety in mind with their academics, the schools and colleges have endorsed online classes. In an online class the teacher is entirely unaware of the attentiveness of students. Analysing attentiveness through video of each student is a daunting task. Also, streaming video of all students on e -learning platforms can result in buffering.
 
-The idea is to automate the task of manually analysing attention of students by creating an
-application that can track the attention levels of each student that are currently present in the
-online class. This application analyses the video feed of each student through a webcam and sends that analysis to the teacher. The received attention levels are
-displayed on the dashboard with frequent updates.
+The idea is to automate the task of monitoring attentiveness of students by analysing the video feed of each student through a webcam and streaming that analysis to the teacher which is displayed on a real-time dashboard. This application does not record or stream video from the student-side to the teacher-side instead it streams the attentiveness of each student after analysing the video feed of students through webcam.
 
-It is a desktop application that has a common entry interface for both teachers and students.
-Teachers upon starting a new class get a class code which is necessary for students to enter in
-an online class. This application does not record or stream video from the student-side to the
-teacher-side instead it sends the attention level of each student after analysing the video feed
-of students through webcam.
+### Entry Interface
+<img src="images/f1.JPG">
+
+### Create New Class
+<img src="images/new1.JPG">
+
+### Join Class
+<img src="images/joinclass.JPG">
+<img src="images/joinnaname.JPG">
+<img src="images/studentanalysis.JPG">
+
+### Teacher Dashboard
+<img src="images/multiple.JPG">
+<img src="images/2 laptop output.png">
+
+
+
+
