@@ -1,4 +1,4 @@
-# Monitoring-Student-attention-in-an-online-class-through-computer-vision
+# Computer Vision based Student Attention Monitor 
 
 The arrival of COVID-19 completely transformed the education system. In the wake of this medical emergency and keeping the student's safety in mind with their academics, the schools and colleges have endorsed online classes. In an online class the teacher is entirely unaware of the attentiveness of students. Analysing attentiveness through video of each student is a daunting task. Also, streaming video of all students on e -learning platforms can result in buffering.
 
