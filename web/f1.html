@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Online Classroom</title>
+  <link href="style.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/gh/ChrisKnott/Eel/eel.js"></script>
+  <script src="main.js"></script>
+</head>
+<body>
+  <div class="wrapper">
+    <h1 class="heading">Welcome</h1>
+    <div class="container">
+      <input type="button" class="choosebutton submit" value="New Class" onclick="gotonew('newclass.html')">
+      <input type="button" class="choosebutton submit" value="Join Class" onclick="gotonew('joinclass.html')">
+    </div>
+
+    <ul class="bg-bubbles">
+      <li></li><li></li><li></li><li></li><li></li>
+      <li></li><li></li><li></li><li></li><li></li>
+    </ul>
+  </div>
+
+  <script>
+    function gotonew(page) {
+      window.location.href = page;
+    }
+  </script>
+</body>
+</html>
