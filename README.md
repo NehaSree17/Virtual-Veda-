@@ -1,6 +1,6 @@
 # Computer Vision based Student Attention Monitor 
 
-#installations
+# installations
 install python and git if not in vscode
 py -m pip --version
 py -m pip install eel opencv-python mediapipe numpy pyttsx3
