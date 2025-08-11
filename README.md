@@ -13,11 +13,9 @@ The idea is to automate the task of monitoring attentiveness of students by anal
 ### Join Class
 <img src="images/joinclass.JPG">
 <img src="images/joinnaname.JPG">
-<img src="images/studentanalysis.JPG">
 
-### Teacher Dashboard
-<img src="images/multiple.JPG">
-<img src="images/2 laptop output.png">
+
+
 
 
 
